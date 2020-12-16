@@ -1,6 +1,8 @@
 # Twitter Sentiment Intensity Analyzer
 **Analyzes the replies of Twitter users to determine sentiment intensity**
 
+
+
 Still a work in progress. Should be functioning very soon.
 
 **TODO:**
