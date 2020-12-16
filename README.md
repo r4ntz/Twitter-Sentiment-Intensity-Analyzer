@@ -3,14 +3,14 @@
 Still a work in progress. Should be functioning very soon.<br /><br />
 
 **TODO:**
-     -Perform the actual analysis
-     -Test and debug read_data functionality
-     -Experiment with larger data sets to determine accuracy
-     -Give user option to enter Twitter handles
-     -Give user option to determine data set size
-     -Give user option to use Twitter API or a json file
-     -Predict time based off data size
-     -Make gui (maybe)<br /><br />  
+* Perform the actual analysis
+* Test and debug read_data functionality
+* Experiment with larger data sets to determine accuracy
+* Give user option to enter Twitter handles
+* Give user option to determine data set size
+* Give user option to use Twitter API or a json file
+* Predict time based off data size
+* Make gui (maybe)<br /><br />  
 
 **REQUIREMENTS:**
      -nltk and tweepy libraries
