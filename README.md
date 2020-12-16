@@ -1,9 +1,6 @@
 # Twitter Sentiment Intensity Analyzer
-**Analyzes the replies of Twitter users to determine sentiment intensity**
-
-
-
-Still a work in progress. Should be functioning very soon.
+**Analyzes the replies of Twitter users to determine sentiment intensity**  
+Still a work in progress. Should be functioning very soon.  
 
 **TODO:**
      -Perform the actual analysis
@@ -13,7 +10,7 @@ Still a work in progress. Should be functioning very soon.
      -Give user option to determine data set size
      -Give user option to use Twitter API or a json file
      -Predict time based off data size
-     -Make gui (maybe)
+     -Make gui (maybe)  
 
 **REQUIREMENTS:**
      -nltk and tweepy libraries
