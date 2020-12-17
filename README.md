@@ -10,6 +10,6 @@
 * Make gui (maybe)<br /><br />  
 
 **REQUIREMENTS:**
-     -nltk, tweepy, prettytable
-     -Twitter API credentials if they are used (required now)
-     -Python 3.5+
+* nltk, tweepy, prettytable
+* Twitter API credentials if they are used (required now)
+* Python 3.5+
