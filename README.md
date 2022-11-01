@@ -1,9 +1,8 @@
+**Don't plan on upgrading this even further, since its use cases are very limited and I no longer have interest in this project**
+---
 # Twitter Sentiment Intensity Analyzer
 **Analyzes the replies of Twitter users to determine sentiment intensity**  
 <br />
-
-**Don't plan on upgrading this even further, since its use cases are very limited and I no longer have interest in this project**
----
 
 **TODO:**
 * Experiment with different model(s) to improve accuracy
